@@ -1,4 +1,4 @@
-raylib's Nintendo Switch (LibNX) Port
+raylib's Nintendo Switch (LibNX) Port MODIFIED FOR Open GL 4.2
 --------
 This is the repository of the Nintendo Switch port of the raylib using LibNX running over the Atmosphere CFW (others CFW should work too), although it's still fully compatible with all the others platforms, i recommend you to get it from the [main repository](https://github.com/raysan5/raylib) if you are looking to build it for other platforms.
 
